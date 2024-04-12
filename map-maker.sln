@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "map-maker", "map-maker.csproj", "{0874F5BB-8E56-4E90-820A-D29A5B3543C3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0874F5BB-8E56-4E90-820A-D29A5B3543C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0874F5BB-8E56-4E90-820A-D29A5B3543C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0874F5BB-8E56-4E90-820A-D29A5B3543C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0874F5BB-8E56-4E90-820A-D29A5B3543C3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {051AF887-E8B3-44A8-862C-68D50E5F82B1}
+	EndGlobalSection
+EndGlobal
